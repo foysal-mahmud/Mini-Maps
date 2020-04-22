@@ -1,5 +1,7 @@
 # Mini-Maps
 
+Platform: Android Studio
+
 This apps first show the user current location whenever the user open this apps. 
 
 The user can search any place in the world by searching button and see the place marked in Google maps. 
